@@ -925,6 +925,8 @@ iHOT,#genre#
 
 
 湖南综合,#genre#
+湖南都市,http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43028/index.m3u8
+湖南都市,http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43094/index.m3u8
 金鹰纪实,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8?
 岳阳公共,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
 湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8?zhund
