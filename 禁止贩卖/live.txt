@@ -981,7 +981,7 @@ iHOT,#genre#
 
 
 河北综合,#genre#
-河北农民,https://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8?zhebd
+河北农民,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1697961781&k=05a5fcd4d295a1585764309cc255eb51
 石家庄新闻综合,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8?zhebd
 石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8?zhebd
 石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
