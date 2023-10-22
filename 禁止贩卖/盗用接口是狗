@@ -2,7 +2,7 @@
 "sites": [
   { "key": "iqiyi", "name": "💘神仙影视 | 高清急速 官网www.sxtv.top","type":3,"api":"./json/drpy2.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/iqy.js"},
   {"key": "csp_KungFu404","name":"阿里签到","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"./ali.jar"},
-  {"key": "影巢","name": " 阿里 | 影巢4k","type": 3,"api": "csp_Hdhive","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./https://jihulab.com/0004/0/-/raw/main/tk.php","jar":"./app.jar"},
+  {"key": "影巢","name": " 阿里 | 影巢4k","type": 3,"api": "csp_Hdhive","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://jihulab.com/0004/0/-/raw/main/tk.php","jar":"./app.jar"},
   {"key":"csp_WoG","name":"阿里 | 玩偶T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=40246b74ef1845d0b247950d5b79131d","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_WoGG","name":"阿里 | 玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/","jar":"./fan.txt"},
   {"key": "麻衣呀呼","name":"影视 | 麻衣呀呼","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/myyh.json"},
