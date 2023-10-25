@@ -1,5 +1,5 @@
-{"sites": "warningText":"神仙影视完全免费，切勿付费购买！",
-[
+{ "warningText":"神仙影视完全免费，切勿付费购买！",
+"sites": [
 {"key": "drpy_js_优酷","name": "💘神仙影视 | 高清急速 官网www.sxtv.top""type": 3,"api": "./json/drpy2.js","ext": "./js/优酷.js"},
 
 {"key": "csp_KungFu404","name":"阿里签到","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0,"changeable":0,"jar":"./ali.jar"},
