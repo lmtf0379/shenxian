@@ -1,10 +1,7 @@
-{ "warningText":"神仙影视完全免费，切勿付费购买！",
-
-"sites": 
-[
-   
+{ 
+  "warningText":"神仙影视完全免费，切勿付费购买！","sites": 
+[ 
 {"key": "drpy_js_优酷","name": "💘神仙影视 | 高清急速 官网www.sxtv.top""type": 3,"api": "./json/drpy2.js","ext": "./js/优酷.js"},
-  
 {"key": "csp_KungFu404","name":"阿里签到","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0,"changeable":0,"jar":"./ali.jar"},
   
 {"key":"csp_WoG","name":"阿里 | 玩偶T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba","searchable":1,"quickSearch":1,"filterable":1},
@@ -173,49 +170,27 @@
 
 {"key":"初中","name":"教育 | 初中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/初中课堂.json","jar":"./11.jar"},
 
-{"key":"高中","name":"教育 | 高中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/高中课堂.json","jar":"./11.jar"}
+{"key":"高中","name":"教育 | 高中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/高中课堂.json""jar":"./11.jar"}
 
- ],
+],
 "parses": [ 
-{"name":"并
-
-发","type":3,"url":"Demo"},
+{"name":"并发","type":3,"url":"Demo"},
 {"name":"聚合","type":3,"url":"Web"},
-{"name": "神仙解析1","type": 1,"url":"https://jxjson.cf/json.php?url=","ext": {"flag": ["qiqi-","YuMi","YuMi-
+{"name": "神仙解析1","type": 1,"url":"https://jxjson.cf/json.php?url=","ext": {"flag": ["qiqi-","YuMi","YuMi-vip"]}},
 
-vip"]}},
-{"name": "神仙解析2","type": 1,"url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=","ext": {"flag": ["爱奇艺","奇艺","qq","腾讯","youku","优
+{"name": "神仙解析2","type": 1,"url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=","ext": {"flag": ["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header": {"User-Agent":"okhttp/3.12.0"}}},
 
-酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header": {"User-Agent": "okhttp/3.12.0"}}},
-{"name":"神仙解析
-
-3","type":1,"url":"http://pandown.pro/app/lvdou.php?url="},
-{"name": "神仙解析4","type": 1,"url":"http://pandown.pro/app/kkdy.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇
-
-艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
-{"name": "神仙嗅探1","type": 0,"url": 
-
-"https://jx.jsonplayer.com/player/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", 
-
-"bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-{"name": "神仙嗅探3","type": 0,"url": "https://www.yemu.xyz/?url=","ext": {"flag": ["qq", "腾讯", 
-
-"qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name":"神仙解析3","type":1,"url":"http://pandown.pro/app/lvdou.php?url="},
+{"name": "神仙解析4","type": 1,"url":"http://pandown.pro/app/kkdy.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
+{"name": "神仙嗅探1","type": 0,"url":"https://jx.jsonplayer.com/player/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu","bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name": "神仙嗅探3","type": 0,"url": "https://www.yemu.xyz/?url=","ext": {"flag": ["qq", "腾讯","qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name": "神仙嗅探4","url": "https://jx.bozrc.com:4433/player/?url=","type": 0,"ext": { "flag": 
-["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优
-
-酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header": {"User-Agent": "Mozilla/5.0"}}}
+["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header": {"User-Agent": "Mozilla/5.0"}}}
 ], 
   "rules":[
     
 
-{"name":"米来","hosts":["zy.behds.cn"],"regex":["#EXTINF"]},{"name":"爱酷","hosts":["cdn.json.icu"],"regex":["#EXTINF:1.000000,[\\s\\S]*?#EXT-X-ENDLIST"]},{"name":"量子广
-
-告","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"非凡广
-
-告","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"火山嗅探
-
-","hosts":["huoshan.com"],"regex":["item_id="]},{"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]}],
+{"name":"米来","hosts":["zy.behds.cn"],"regex":["#EXTINF"]},{"name":"爱酷","hosts":["cdn.json.icu"],"regex":["#EXTINF:1.000000,[\\s\\S]*?#EXT-X-ENDLIST"]},{"name":"量子广告","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"非凡广告","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},{"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]}],
    "lives": [ { "name": "live", "type": 0, "url": 
 
 "./live.txt","playerType":1,
@@ -223,19 +198,8 @@ vip"]}},
    "logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "ads":
 
-["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-
-
-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz
-
-.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z
-
-6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.
-
-xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q
-
-11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top"
-
-,"qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"],
+["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"
+],
 "spider": "./sx.jar", 
  "wallpaper": "http://饭太硬.top/深色壁纸/api.php"
 }
