@@ -20,7 +20,7 @@
   {"key": "csp_耐看","name": "影视 | 耐看影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/耐看影视.json"},
   {"key": "csp_策驰","name": "影视 | 策驰影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/cechi.json"},
   {"key": "csp_Bdys","name": "影视 | 哔嘀影视","type": 3,"api": "csp_Bdys","searchable": 1,"quickSearch": 1,"filterable": 1},
-  {"key": "csp_Czsapp", "name": "影视 | 厂长影视", "type":3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext":"https://www.czz9.com/","jar":"./d.jar"},
+  {"key": "csp_Czsapp", "name": "影视 | 厂长影视", "type":3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext":"https://www.czzy88.com/","jar":"./d.jar"},
   {"key": "csp_jisu", "name": "影视 | 急速影视", "type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/jisu.json"},
   {"key": "csp_熊猫","name": "影视 | 熊猫影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/熊猫影视.json"},
   {"key": "淘剧","name": "影视 | 淘剧影视","type": 3,"api": "csp_XBPQ","ext": "./json/taoju.json"},
