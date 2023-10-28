@@ -500,16 +500,16 @@ CCTV-16   2K,http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8
 第一财经,http://222.71.90.218:8888/newlive/live/hls/57/live.m3u8
 
 港澳台海,#genre#
-凤凰中文,http://27.185.233.92/tlive.fengshows.cn/live/0201pcchd.flv?txSecret=1505bcd57654d491f4f694464967bc35&txTime=18b6066253d$春盈标清
-凤凰中文,http://27.185.233.92/tlive.fengshows.cn/live/0201pcchd.flv?txSecret=398430fa02dfc500ca9943c0254875fb&txTime=18b4b108516$春盈稳定
-凤凰中文,http://27.185.233.92/tlive.fengshows.cn/live/0201pcchd.flv?txSecret=716bc98da39bbe6970bb00cae3d82ac5&txTime=18b1bf58cc4$春盈快速
-凤凰中文,http://r.jdshipin.com/cCCzW$春盈高清
-凤凰中文,http://111.20.40.166:80/PLTV/88888893/224/3221226547/index.m3u8$春盈极速
-凤凰资讯,http://27.185.233.92/tlive.fengshows.cn/live/0201pinhd.flv?txSecret=d3a4bb98e92a9a90a634da3bd4f02f46&txTime=18b60630698$春盈标清
-凤凰资讯,http://27.185.233.92/tlive.fengshows.cn/live/0201pinhd.flv?txSecret=12325beaf95737e583472eccef4272cd&txTime=18b4b0f7c0c$春盈稳定
-凤凰资讯,http://27.185.233.92/tlive.fengshows.cn/live/0201pinhd.flv?txSecret=40a6c6305518f56b99b636232493b933&txTime=18b1bf67f53$春盈快速
-凤凰资讯,http://r.jdshipin.com/0Rp07$春盈高清
-凤凰资讯,http://111.20.40.166:80/PLTV/88888893/224/3221226546/index.m3u8$春盈极速
+凤凰中文,http://27.185.233.92/tlive.fengshows.cn/live/0201pcchd.flv?txSecret=1505bcd57654d491f4f694464967bc35&txTime=18b6066253d
+凤凰中文,http://27.185.233.92/tlive.fengshows.cn/live/0201pcchd.flv?txSecret=398430fa02dfc500ca9943c0254875fb&txTime=18b4b108516
+凤凰中文,http://27.185.233.92/tlive.fengshows.cn/live/0201pcchd.flv?txSecret=716bc98da39bbe6970bb00cae3d82ac5&txTime=18b1bf58cc4
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰中文,http://111.20.40.166:80/PLTV/88888893/224/3221226547/index.m3u8
+凤凰资讯,http://27.185.233.92/tlive.fengshows.cn/live/0201pinhd.flv?txSecret=d3a4bb98e92a9a90a634da3bd4f02f46&txTime=18b60630698
+凤凰资讯,http://27.185.233.92/tlive.fengshows.cn/live/0201pinhd.flv?txSecret=12325beaf95737e583472eccef4272cd&txTime=18b4b0f7c0c
+凤凰资讯,http://27.185.233.92/tlive.fengshows.cn/live/0201pinhd.flv?txSecret=40a6c6305518f56b99b636232493b933&txTime=18b1bf67f53
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰资讯,http://111.20.40.166:80/PLTV/88888893/224/3221226546/index.m3u8
 无线新闻,https://pull-f5-spe.ixigua.com/live/YesLiveTV-77e291b2-4abc-4a95-8da7-a22ebf402964/index.m3u8?by=yeslivetv.com
 无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153399
