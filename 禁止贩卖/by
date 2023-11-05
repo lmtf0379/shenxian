@@ -5,6 +5,7 @@
   {"key":"ik","name":"爱看","type":3,"api":"csp_XBPQ","filterable": 1,"ext": "./json/ik.json"},
   {"key": "csp_KungFu404","name":"阿里签到","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"./ali.jar"},
   {"key":"神仙影视","name":"自营 | 神仙影视","type":1,"api":"http://tv.sxtv.top:81/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","海外剧","喜剧片","动作片","科幻片","战争片","纪录片","爱情片","恐怖片","动画片","剧情片","国产动漫","日韩动漫","欧美动漫","港台动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","音乐","搞笑","影视","汽车"]},
+  {"key": "Gitcafe","name": "阿里|小纸条","type": 3,"api": "csp_Paper","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "b4242bebe6f144d3aa6a2cd842ac65aa","jar":"./12.jar"},
   {"key":"csp_WoG","name":"阿里 | 玩偶T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_WoGG","name":"阿里 | 玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹","jar":"./fan.txt"},
   {"key":"Hdhive","name":"阿里 | 影巢","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "ext":"./token.json$$$null$$$1","jar":"./12.jar"},
