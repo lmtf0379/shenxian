@@ -8,6 +8,7 @@
   {"key":"Hdhive","name":"阿里 | 影巢","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "ext":"./token.json$$$null$$$1","jar":"./12.jar"},
   {"key":"Ppxzy","name":"阿里 | 皮皮虾","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "ext":"./token.json$$$https://ppxzy.net/$$$null$$$1","jar":"./12.jar"},
   {"key":"Wobg","name":"阿里 | 玩偶表哥","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "ext":"./token.json$$$https://wobge.run.goorm.io$$$1","jar":"./12.jar"},
+  {"key":"yumi","name": "影视 | 玉米","type": 0,"api": "http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playUrl": "json:https://www.qiaoji8.com/tvbox/json.php?url=","searchable": 1,"quickSearch": 1,"filterable": 1},
   {"key": "麻衣呀呼","name":"影视 | 麻衣呀呼","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/myyh.json"},
   {"key":"csp_ggyy","name":"影视 | 光棍影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/ggyy.json"},
   {"key":"777","name":"影视 | 777影视","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/777影视.json"},
