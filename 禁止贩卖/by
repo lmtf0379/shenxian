@@ -9,6 +9,7 @@
   {"key":"Ppxzy","name":"阿里 | 皮皮虾","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "ext":"./token.json$$$https://ppxzy.net/$$$null$$$1","jar":"./12.jar"},
   {"key":"Wobg","name":"阿里 | 玩偶表哥","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "ext":"./token.json$$$https://wobge.run.goorm.io$$$1","jar":"./12.jar"},
   {"key": "小纸条_cli","name": "阿里 | 小纸条","type": 4,"api": "http://home.jundie.top:9520/spider/cli_gitCafe","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "./token.json"},
+  {"key": "csp_7xin","name": "影视 | 七新影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./7xin.json"},
   {"key": "麻衣呀呼","name":"影视 | 麻衣呀呼","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/myyh.json"},
   {"key":"csp_ggyy","name":"影视 | 光棍影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/ggyy.json"},
   {"key":"777","name":"影视 | 777影视","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/777影视.json"},
