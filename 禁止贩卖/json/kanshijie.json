@@ -43,7 +43,7 @@
     "年代详情": ".module-info-content&&.module-info-item,3&&Text",
     "地区详情": "",
     "演员详情": ".module-info-content&&.module-info-item,2&&Text",
-    "简介详情": ".module-info-content&&.module-info-item&&Text",
+    "简介详情": "【神仙影视】提醒您请勿相信影片中的广告，以免上当受骗！+.module-info-content&&.module-info-item&&Text",
     "线路列表数组规则": ".module-tab-items-box&&.module-tab-item",
     "线路标题": "span&&Text+'  共'+small&&Text+'集'[排序:1080Zuo,1080QY,1080MG,1080QQ,1080YK]",
     "播放列表数组规则": "body&&.module-play-list-content",
