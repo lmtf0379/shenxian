@@ -1,8 +1,7 @@
 { "warningText":"神仙影视完全免费，切勿付费购买！",
 "sites": [
   {"key": "yumi","name": "💘神仙影视 | 高清急速 官网www.sxtv.top","type": 0,"api": "http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playUrl": "json:http://110.42.3.71:5000/api/jiexi/common?Key=KXQPP57nhYzmSX1DBL&url=","searchable": 1,"quickSearch": 1,"filterable": 1},
-  {"key":"ik","name":"影视 | 爱看影院","type":3,"api":"csp_XBPQ","filterable": 1,"ext": "./json/ik.json"},
-  {"key": "csp_KungFu404","name":"阿里签到","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"./ali.jar"},
+    {"key": "csp_KungFu404","name":"阿里签到","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"./ali.jar"},
   {"key":"csp_sxys","name":"自营 | 神仙影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:http://tv.sxtv.top:81/index.php/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电视剧$20#电影$29#动漫$41#综艺$45#短视频$60"},
   {"key":"csp_WoG","name":"阿里 | 玩偶T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_WoGG","name":"阿里 | 玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹","jar":"./fan.txt"},
@@ -11,6 +10,7 @@
   {"key":"Wobg","name":"阿里 | 玩偶表哥","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "ext":"./token.json$$$https://wobge.run.goorm.io$$$1","jar":"./12.jar"},
   {"key": "小纸条_cli","name": "阿里 | 小纸条","type": 4,"api": "http://home.jundie.top:9520/spider/cli_gitCafe","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "./token.json"},
   {"key": "csp_kanshijie","name": "影视 | 看视界","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/kanshijie.json"},
+  {"key":"ik","name":"影视 | 爱看影院","type":3,"api":"csp_XBPQ","filterable": 1,"ext": "./json/ik.json"},
   {"key": "csp_7xin","name": "影视 | 七新影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/7xin.json"},
   {"key": "麻衣呀呼","name":"影视 | 麻衣呀呼","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/myyh.json"},
   {"key":"777","name":"影视 | 777影视","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/777影视.json"},
