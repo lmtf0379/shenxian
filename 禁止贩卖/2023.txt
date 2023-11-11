@@ -12,8 +12,6 @@
 「江苏」东台综合频道,http://dongtai-tv-hls.cm.jstv.com/dongtai-tv/dongtaizonghe.m3u8?zjiangsd
 「江苏」海安新闻综合,http://haian-tv-hls.cm.jstv.com/haian-tv/haaxwzh.m3u8?zjiangsd
 「江苏」淮安公共频道,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
-「江苏」淮安新闻综合,http://live1.habctv.com/zhpdsl/sd/live.m3u8?zjiangsd
-「江苏」淮安影院娱乐,http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
 「江苏」贾汪旅游频道,http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwly.m3u8?zjiangsd
 「江苏」贾汪新闻频道,http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwxw.m3u8?zjiangsd
 「江苏」江宁新闻频道,https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8?zjiangsd
