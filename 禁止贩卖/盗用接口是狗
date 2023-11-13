@@ -1,7 +1,7 @@
 { "warningText":"神仙影视完全免费，切勿付费购买！",
 "sites": [
   {"key": "yumi","name": "💘神仙影视 | 高清急速 官网www.sxtv.top","type": 0,"api": "http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playUrl": "json:http://110.42.3.71:5000/api/jiexi/common?Key=KXQPP57nhYzmSX1DBL&url=","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key": "csp_KungFu404","name":"阿里签到","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"./ali.jar"},
+  {"key": "csp_KungFu404","name":"阿里签到","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"./ali.jar"},
   {"key":"csp_sxys","name":"自营 | 神仙影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:http://tv.sxtv.top:81/index.php/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电视剧$20#电影$29#动漫$41#综艺$45#体育赛事$60"},
   {"key":"csp_WoG","name":"阿里 | 玩偶T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=b4242bebe6f144d3aa6a2cd842ac65aa","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_WoGG","name":"阿里 | 玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹","jar":"./fan.txt"},
@@ -62,7 +62,7 @@
   {"key": "ysjj-duo","name":"APP | 影视之家","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yingszj.xn--654a.cc/api.php/app/"},
   {"key": "kuin-duo","name": "APP | 酷音影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.kuin.one/api.php/app/"},
   {"key": "libo","name":"APP | 69美剧","type": 3,"api": "csp_AppYs","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.69mj.com/xgapp.php/v2/"},
-    {"key": "csp_jingchu","name": "荆楚影视","api": "http://66.18161816.xyz:81/api.php/provide/vod/","jiexiUrl": "http://77.18161816.xyz:81/jx/?url=","group": "默认","status": true, "isActive": true,"type": 1},
+    {"key":"csp_jingchu","name":"荆楚影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:http://66.18161816.xyz:81/index.php/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#连续剧$2#动漫$4#综艺$3","jiexiUrl": "http://77.18161816.xyz:81/jx/?url="},
   {"key":"七夜","name":"搜索 | 七夜","type":3,"api":"csp_Dovx","searchable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.json","jar":"./fan.txt"},
   {"key":"易搜","name":"搜索 | 易搜","type":3,"api":"csp_YiSo","ext":"http://127.0.0.1:9978/file/tvfan/token.json","jar":"./fan.txt"},
   {"key":"盘搜","name":"搜索 | 盘搜","type":3,"api":"csp_PanSou","ext":"http://127.0.0.1:9978/file/tvfan/token.json","jar":"./fan.txt"},
