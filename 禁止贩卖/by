@@ -1,7 +1,7 @@
 { "warningText":"神仙影视完全免费，切勿付费购买！",
 "sites": [
   {"key": "yumi","name": "💘神仙影视 | 高清急速 官网www.sxtv.top","type": 0,"api": "http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playUrl": "json:http://110.42.3.71:5000/api/jiexi/common?Key=KXQPP57nhYzmSX1DBL&url=","searchable": 1,"quickSearch": 1,"filterable": 1},
-  {"key": "csp_jingchu","name": "荆楚影视","api": "http://66.18161816.xyz:81/api.php/provide/vod/","jiexiUrl": "http://77.18161816.xyz:81/jx/?url=","group": "默认","status": true, "isActive": true,"type": 1}, 
+  {"key": "csp_jingchu","name": "荆楚影视","api": "http://66.18161816.xyz:81/api.php/provide/vod/","jiexiUrl": "http://77.18161816.xyz:81/jx/?url=","group": ["惊悚片","犯罪片","冒险片","悬疑片","武侠片","奇幻片","记录片","古装片","灾难片","魔幻片","青春片","其他片","动作片","喜剧片","爱情片","剧情片","科幻片","战争片","国产剧","港台剧","日剧","内地","港台","日韩","欧美","动画片","日韩剧"],"status": true, "isActive": true,"type": 1}, 
   {"key": "企鹅体育","name": "企鹅┃体育","type": 3,"api": "csp_XPath","searchable": 0,"changeable": 0,"ext": "https://tvbox.cainisi.cf/json/XPath/企鹅体育.json","jar":"https://tvbox.cainisi.cf/jar/fty1004.jar"},
   {"key":"ik","name":"影视 | 爱看影院","type":3,"api":"csp_XBPQ","filterable": 1,"ext": "./json/ik.json"},
   {"key": "csp_KungFu404","name":"阿里签到","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"./ali.jar"},
