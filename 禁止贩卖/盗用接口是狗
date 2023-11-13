@@ -62,6 +62,7 @@
   {"key": "ysjj-duo","name":"APP | 影视之家","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yingszj.xn--654a.cc/api.php/app/"},
   {"key": "kuin-duo","name": "APP | 酷音影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.kuin.one/api.php/app/"},
   {"key": "libo","name":"APP | 69美剧","type": 3,"api": "csp_AppYs","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.69mj.com/xgapp.php/v2/"},
+    {"key": "csp_jingchu","name": "APP | 荆楚影视","api": "http://66.18161816.xyz:81/api.php/provide/vod/","jiexiUrl": "http://77.18161816.xyz:81/jx/?url=","group": "默认","status": true, "isActive": true,"type": 1}, 
   {"key":"七夜","name":"搜索 | 七夜","type":3,"api":"csp_Dovx","searchable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.json","jar":"./fan.txt"},
   {"key":"易搜","name":"搜索 | 易搜","type":3,"api":"csp_YiSo","ext":"http://127.0.0.1:9978/file/tvfan/token.json","jar":"./fan.txt"},
   {"key":"盘搜","name":"搜索 | 盘搜","type":3,"api":"csp_PanSou","ext":"http://127.0.0.1:9978/file/tvfan/token.json","jar":"./fan.txt"},
