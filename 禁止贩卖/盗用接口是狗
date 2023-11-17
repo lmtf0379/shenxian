@@ -67,7 +67,7 @@
   {"key":"易搜","name":"搜索 | 易搜","type":3,"api":"csp_YiSo","ext":"http://127.0.0.1:9978/file/tvfan/token.json","jar":"./fan.txt"},
   {"key":"盘搜","name":"搜索 | 盘搜","type":3,"api":"csp_PanSou","ext":"http://127.0.0.1:9978/file/tvfan/token.json","jar":"./fan.txt"},
   {"key":"UP云搜","name":"搜索 | 云搜","type":3,"api":"csp_UpYun","ext":"http://127.0.0.1:9978/file/tvfan/token.json","jar":"./fan.txt"}, 
-  {"key": "爱奇艺","name": "官源 | 爱奇艺","type": 1,"api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qiyi/?at/xml/","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories":["电影","动漫","连续剧","动画片","动作片","喜剧片","科幻片","奇幻片","武侠片","恐怖片","悬疑片","冒险片","惊悚片","犯罪片","战争片","爱情片","剧情片","国产剧","日韩剧","欧美剧","港台剧","欧美剧","综艺"]},
+  {"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺","type":3,"api":"./json/drpy2.js","ext":"./json/iqy.js"},
   {"key": "drpy_js_腾云驾雾","name": "官源 | 腾讯","type": 3,"api": "./json/drpy2.js","ext": "https://codeberg.org/shenxian/1020/raw/branch/main/禁止贩卖/js/腾云驾雾.js"},
   {"key": "drpy_js_百忙无果","name": "官源 | 芒果","type": 3,"api": "./json/drpy2.js","ext": "https://codeberg.org/shenxian/1020/raw/branch/main/禁止贩卖/js/百忙无果.js" },
   {"key": "drpy_js_菜狗","name": "官源 | 搜狗","type": 3,"api": "./json/drpy2.js","ext": "https://codeberg.org/shenxian/1020/raw/branch/main/禁止贩卖/js/菜狗.js"},
