@@ -1,6 +1,6 @@
 { "warningText":"神仙影视完全免费，切勿付费购买！",
 "sites": [
-  {"key": "yumi","name": "💘神仙影视 | 高清急速 官网www.sxtv.top","type": 0,"api": "http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playUrl": "json:http://110.42.3.71:5000/api/jiexi/common?Key=KXQPP57nhYzmSX1DBL&url=","searchable": 1,"quickSearch": 1,"filterable": 1},
+  {"key": "yumi","name": "💘神仙影视 | 高清急速 官网www.sxtv.top","type": 0,"api": "http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playUrl": "json:https://www.qiaoji8.com/tvbox/json.php?url=","searchable": 1,"quickSearch": 1,"filterable": 1},
   {"key": "csp_KungFu404","name":"阿里签到","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"./ali.jar"},
   {"key":"csp_shenxian","name":"自营 | 神仙影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:http://tv.sxtv.top:81/index.php/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$69#连续剧$70#动漫$72#综艺$71","jiexiUrl": "http://77.18161816.xyz:81/jx/?url="},
   {"key":"csp_WoG","name":"阿里 | 玩偶T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=b4242bebe6f144d3aa6a2cd842ac65aa","searchable":1,"quickSearch":1,"filterable":1},
