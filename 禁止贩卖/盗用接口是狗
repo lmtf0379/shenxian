@@ -106,6 +106,7 @@
 {"name": "神仙解析4","type": 1, "url": "http://pandown.pro/app/kkdy.php?url=","ext": {"flag": 
 ["qq","腾讯", "qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
 {"name": "神仙解析5","type": 1,"url": "http://77.18161816.xyz:81/api/?key=GRiOL1sGc0kqEsu55i&url="},
+{"name": "神仙解析6","type": 1,"url": "https://www.qiaoji8.com/tvbox/json.php?url="},
 {"name":"神仙嗅探1","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"神仙嗅探2","url":"https://jx.bozrc.com:4433/player/?url=","showType":1},
 {"name":"神仙嗅探3","type":0,"url":"https://jx.aidouer.net/?url="},
