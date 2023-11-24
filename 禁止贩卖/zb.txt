@@ -17,5 +17,6 @@ CCTV13,https://live.goodiptv.club/api/cqyx.php?id=cctv13HD
 CCTV14,https://live.goodiptv.club/api/cqyx.php?id=cctv14HD
 CCTV15,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
 CCTV16,https://live.goodiptv.club/api/cqyx.php?id=cctv16HD
-CCTV17,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
 CCTV16 4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
+CCTV17,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
+
