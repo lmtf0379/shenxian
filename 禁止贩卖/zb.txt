@@ -1,3 +1,3 @@
 央视,#genre#
-CCTV1,https://www.sxtv.top/zb/ysp.php?id=cctv1
-CCTV1hd,https://www.sxtv.top/zb/as.php?id=cctv1hd
+CCTV1,https://www.liuyunw.com/ysp.php?id=cctv1
+CCTV1hd,https://www.liuyunw.com/as.php?id=cctv1hd
