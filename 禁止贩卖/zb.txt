@@ -1,3 +1,21 @@
 央视,#genre#
-CCTV1,https://www.liuyunw.com/ysp.php?id=cctv1
-CCTV1hd,https://www.liuyunw.com/as.php?id=cctv1hd
+CCTV1,https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
+CCTV2,https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
+CCTV3,https://live.goodiptv.club/api/cqyx.php?id=cctv3HD
+CCTV4,https://live.goodiptv.club/api/cqyx.php?id=cctv4HD
+CCTV4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
+CCTV5,https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
+CCTV5+,https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD
+CCTV6,https://live.goodiptv.club/api/cqyx.php?id=cctv6HD
+CCTV7,https://live.goodiptv.club/api/cqyx.php?id=cctv7HD
+CCTV8,https://live.goodiptv.club/api/cqyx.php?id=cctv8HD
+CCTV9,https://live.goodiptv.club/api/cqyx.php?id=cctv9HD
+CCTV10,https://live.goodiptv.club/api/cqyx.php?id=cctv10HD
+CCTV11,https://live.goodiptv.club/api/cqyx.php?id=cctv11HD
+CCTV12,https://live.goodiptv.club/api/cqyx.php?id=cctv12HD
+CCTV13,https://live.goodiptv.club/api/cqyx.php?id=cctv13HD
+CCTV14,https://live.goodiptv.club/api/cqyx.php?id=cctv14HD
+CCTV15,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
+CCTV16,https://live.goodiptv.club/api/cqyx.php?id=cctv16HD
+CCTV17,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
+CCTV16 4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
