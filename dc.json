@@ -1,7 +1,14 @@
-{"urls":[
-{"name": "神仙线路","url": "https://www.sxtv.top/loading/img"}, 
-{"name": "饭太硬线路","url": "http://饭太硬.top/tv"}, 
-{"name": "肥猫线路","url": "http://肥猫.live"}, 
-{"name": "小米线路","url": "http://xhww.fun:63/小米/DEMO.json"}, 
-{"name":"南风线路","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"}
-] }
+{
+"urls":[
+{"url":"https://www.sxtv.top/loading/img",
+"name":"神仙线路"},
+{"url":"http://饭太硬.top/tv",
+"name":"饭太硬线路"},
+{"url":"http://肥猫.live",
+"name":"肥猫线路"},
+{"url":"http://xhww.fun:63/小米/DEMO.json",
+"name":"小米线路"},
+{"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+"name":"南风线路"}
+]
+}
